@@ -6,7 +6,20 @@ This project is a simple Java-based Banking System, designed to demonstrate obje
 
 The project follows a typical Java project structure:
 
-BankingSystem/ ├── README.md └── src/ └── com/ └── bank/ ├── Main.java ├── accounts/ │ ├── BankAccount.java │ ├── CheckingAccount.java │ └── SavingsAccount.java └── services/ └── Bank.java
+``` text
+BankingSystem/
+├── README.md
+└── src/
+    └── com/
+        └── bank/
+            ├── Main.java
+            ├── accounts/
+            │   ├── BankAccount.java
+            │   ├── CheckingAccount.java
+            │   └── SavingsAccount.java
+            └── services/
+                └── Bank.java
+```
 
 
 ## Project Description
